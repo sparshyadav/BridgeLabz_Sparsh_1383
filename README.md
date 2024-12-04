@@ -9,6 +9,14 @@
 * Map, WeakMap, Set, WeakSet
 * Destructuring Assignment for Arrays, Objects, and Functions
 
+**4th December 2024**
+* React Overview, Introduction and Installation
+* React Folder Structure
+* Components and JSX Rules
+* JSX vs JS
+
+
+
 
 
 
