@@ -35,3 +35,4 @@
 * Object Referencing, and Copying(Deep, and Shallow Copy)
 * Classes - Creation, Instantization, static methods, Inheritance
 * Employee Wage Assignment
+* Creating Components in React
