@@ -37,6 +37,13 @@
 * Employee Wage Assignment
 * Creating Components in React
 
+**6th December 2025**
+* Interactions - Alert, Prompt, Confirm
+* EventHandling using EventEmitter
+* Logical and Nullish Coalescing Operator
+* Recursion and Stack
+* Rest and Spread Operators
+
 
 
 
