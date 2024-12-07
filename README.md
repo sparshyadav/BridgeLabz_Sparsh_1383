@@ -30,14 +30,14 @@
         3. Display the number of passing students, and their names
     * Count the Frequence of each Alphabet in a text using Reduce
 
-**5th December 2025**
+**5th December 2024**
 * Objects - Creation(4 Ways), Updating, Deleting, Iterating over Objects
 * Object Referencing, and Copying(Deep, and Shallow Copy)
 * Classes - Creation, Instantization, static methods, Inheritance
 * Employee Wage Assignment
 * Creating Components in React
 
-**6th December 2025**
+**6th December 2024**
 * Interactions - Alert, Prompt, Confirm
 * EventHandling using EventEmitter
 * Logical and Nullish Coalescing Operator
