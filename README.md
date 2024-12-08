@@ -52,6 +52,9 @@
 * Comparisons
 * Conditional Branching
 
+**8th December 2024**
+* Revision of Week 1 Concepts
+
 
 
 
