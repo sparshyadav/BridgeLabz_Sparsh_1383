@@ -55,6 +55,12 @@
 **8th December 2024**
 * Revision of Week 1 Concepts
 
+**9th December 2024**
+* Object Oriented Programming - Objects, Classes, Inheritance, Super Keyword
+* Immediately Invoked Function Expression(IIFE)
+* Decorators and Forwarding
+* Call, Apply, Bind
+
 
 
 
