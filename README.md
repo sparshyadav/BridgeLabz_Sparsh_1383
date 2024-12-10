@@ -9,7 +9,7 @@
 * Map, WeakMap, Set, WeakSet
 * Destructuring Assignment for Arrays, Objects, and Functions
 
-**4th December 2024**
+**4th December 2024:**
 * React Overview, Introduction and Installation
 * React Folder Structure
 * Components and JSX Rules
@@ -30,21 +30,21 @@
         3. Display the number of passing students, and their names
     * Count the Frequence of each Alphabet in a text using Reduce
 
-**5th December 2024**
+**5th December 2024:**
 * Objects - Creation(4 Ways), Updating, Deleting, Iterating over Objects
 * Object Referencing, and Copying(Deep, and Shallow Copy)
 * Classes - Creation, Instantization, static methods, Inheritance
 * Employee Wage Assignment
 * Creating Components in React
 
-**6th December 2024**
+**6th December 2024:**
 * Interactions - Alert, Prompt, Confirm
 * EventHandling using EventEmitter
 * Logical and Nullish Coalescing Operator
 * Recursion and Stack
 * Rest and Spread Operators
 
-**7th December 2024**
+**7th December 2024:**
 * NodeJs, and NPM
 * Event Loop
 * Type Conversions
@@ -52,14 +52,21 @@
 * Comparisons
 * Conditional Branching
 
-**8th December 2024**
+**8th December 2024:**
 * Revision of Week 1 Concepts
 
-**9th December 2024**
+**9th December 2024:**
 * Object Oriented Programming - Objects, Classes, Inheritance, Super Keyword
 * Immediately Invoked Function Expression(IIFE)
 * Decorators and Forwarding
 * Call, Apply, Bind
+
+**10th December 2024:**
+* Every Iteration on Arrays
+* Event Loop including Promises, Async/Await, and callbacks
+* Event Loop practice Questions
+* Named Function Expression, and new Function Syntax
+* Variable Scope
 
 
 
