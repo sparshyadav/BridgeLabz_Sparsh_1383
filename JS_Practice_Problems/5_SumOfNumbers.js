@@ -15,5 +15,5 @@ for (let i = 1; i < 11; i++) {
 
 let reduceSum = arr.reduce((acc, num) => {
     return acc + num;
-});
+}, 0);
 console.log(`The Sum of Numbers from 1 to 10 is ${reduceSum}`);
