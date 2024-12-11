@@ -1,4 +1,4 @@
-// Create a Function to Convect Celcius to Fahrenheit
+// Create a Function to Convert Celcius to Fahrenheit
 function convert(temp) {
     let fahreinheitTemp = temp * (9 / 5) + 32;
     let newTemp = fahreinheitTemp.toFixed(2);
