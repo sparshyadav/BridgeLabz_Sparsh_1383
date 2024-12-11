@@ -68,6 +68,12 @@
 * Named Function Expression, and new Function Syntax
 * Variable Scope
 
+**11th December 2024**
+* Property Flag and Descriptors
+* Optional Chaining
+* Object to Primite Conversion
+* Getter and Setters
+
 
 
 
