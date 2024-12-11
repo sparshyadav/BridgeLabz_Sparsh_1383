@@ -20,6 +20,6 @@ function combineArrays(arr1, arr2) {
 console.log(`Original Array 1: ${arr1}`);
 console.log(`Original Array 2: ${arr2}`);
 let newArr = combineArrays(arr1, arr2);
-console.log(`Reversed Array: ${newArr}`);
+console.log(`Combined Array: ${newArr}`);
 
 
