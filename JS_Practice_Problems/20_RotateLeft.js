@@ -2,8 +2,8 @@
 
 let arr = [646, 23, 75, 43, 23, 54, 23, 75];
 
-// Approach 1 - Using Slice and Concat
-function rotateUsingSlice(arr) {
+// Approach 1 - Using Shift and Push
+function rotateUsingShift(arr) {
     let left = arr[0];
     arr.shift();
     arr.push(left);
@@ -12,7 +12,7 @@ function rotateUsingSlice(arr) {
 }
 
 console.log(`Original Array: ${arr}`);
-const newArr = rotateUsingSlice(arr);
+const newArr = rotateUsingShift(arr);
 console.log(`Rotated Array: ${newArr}`);
 
 
