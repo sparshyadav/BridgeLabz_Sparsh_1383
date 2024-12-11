@@ -19,5 +19,5 @@ for (let i = 10; i < 31; i++) {
 
 let evenSum = evenNumbers.reduce((acc, num) => {
     return acc + num;
-})
+}, 0)
 console.log(`The Sum of Even Numbers from 10 to 30 is: ${evenSum}`);
