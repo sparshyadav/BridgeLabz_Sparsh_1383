@@ -68,11 +68,11 @@
 * Named Function Expression, and new Function Syntax
 * Variable Scope
 
-**11th December 2024**
-* Property Flag and Descriptors
-* Optional Chaining
-* Object to Primite Conversion
-* Getter and Setters
+**11th December 2024:**
+* JS Practice Problems Questions 1 - 28
+
+**12th December 2024:**
+* JS Practice Problems Questions 29 - 53
 
 
 
