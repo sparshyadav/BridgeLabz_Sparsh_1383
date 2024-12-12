@@ -99,6 +99,7 @@
 28. Calculate the sum of first 100 prime numbers and return them in an array
 
 **12th December 2024:**
+
 29. Print the distance between the first 100 prime numbers  
 30. Create a function that will add two positive numbers of indefinite size. The number/s are received as strings and the result should be also provided as a string.  
 31. Create a function that will return the number of words in a text  
