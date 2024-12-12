@@ -99,15 +99,15 @@
 28. Calculate the sum of first 100 prime numbers and return them in an array
 
 **12th December 2024:**
-29. Print the distance between the first 100 prime numbers
-30. Create a function that will add two positive numbers of indefinite size. The number/s are received as strings and the result should be also provided as string.
-31. Create a function that will return the number of words in a text
-32. Create a function that will capitalize the first letter of each word in a text
-33. Calculate the sum of numbers received in a comma delimited string
-34. Create a function that returns an array with words inside a text.
-35. Create a function to convert a CSV text to a “bi-dimensional” array
-36. Create a function that converts a string to an array of characters
-37. Create a function that will convert a string in an array containing the ASCII codes of each character
+    29. Print the distance between the first 100 prime numbers
+    30. Create a function that will add two positive numbers of indefinite size. The number/s are received as strings and the result should be also     provided as string.
+    31. Create a function that will return the number of words in a text
+    32. Create a function that will capitalize the first letter of each word in a text
+    33. Calculate the sum of numbers received in a comma delimited string
+    34. Create a function that returns an array with words inside a text.
+    35. Create a function to convert a CSV text to a “bi-dimensional” array
+    36. Create a function that converts a string to an array of characters
+    37. Create a function that will convert a string in an array containing the ASCII codes of each character
 38. Create a function that will convert an array containing ASCII codes in a string
 39. Implement the Caesar cypher
 40. Implement the bubble sort algorithm for an array of numbers
