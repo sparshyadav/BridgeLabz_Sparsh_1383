@@ -125,3 +125,9 @@
 51. Find the frequency of letters inside a string. Return the result as an array of arrays. Each subarray has 2 elements: letter and number of occurrences.  
 52. Calculate Fibonacci(500) with high precision (all digits)  
 53. Calculate 70! with high precision (all digits)
+
+**13th December 2024:**
+* Getter and Setters 
+* Object to Primite Conversion
+* Optional Chaining
+* String Methods
