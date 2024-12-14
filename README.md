@@ -131,3 +131,9 @@
 * Object to Primite Conversion
 * Optional Chaining
 * String Methods
+
+**14th December 2024:**
+* Call, Apply, Bind - Implementation, Usecases, and Practice Problems
+* Schedulers - setTimeout, setInterval, clearTimeout, clearInterval
+* Decorators, and Forwarding - Implementation, Usecases, and Practice Problems
+* Named Function Expression, and "new" Function Syntax
