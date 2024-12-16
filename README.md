@@ -142,3 +142,8 @@
 * Stack - Theory, and Implementation
 * Array Implementation, and Methods
 * Review 2 Preprations
+
+**16th December 2024:**
+* Custom Array Implementation - Using Array Class, Objects, and a new Class
+* LinkedList Implementation - Singly LinkedList, Doubly LinkedList, Circular LinkedList using Arrays
+* Stack Implementation - Fixed Sized, Dynamic Sized using Arrays
