@@ -137,3 +137,8 @@
 * Schedulers - setTimeout, setInterval, clearTimeout, clearInterval
 * Decorators, and Forwarding - Implementation, Usecases, and Practice Problems
 * Named Function Expression, and "new" Function Syntax
+
+**15th December 2024:**
+* Stack - Theory, and Implementation
+* Array Implementation, and Methods
+* Review 2 Preprations
