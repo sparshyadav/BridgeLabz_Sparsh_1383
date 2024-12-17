@@ -147,3 +147,8 @@
 * Custom Array Implementation - Using Array Class, Objects, and a new Class
 * LinkedList Implementation - Singly LinkedList, Doubly LinkedList, Circular LinkedList using Arrays
 * Stack Implementation - Fixed Sized, Dynamic Sized using Arrays
+
+**17th December 2024:**
+* Custom Array Function - Indifinite Different Input Type Addition
+* Array - Deep, and Shallow Copy 
+* Array/String Palindrome
