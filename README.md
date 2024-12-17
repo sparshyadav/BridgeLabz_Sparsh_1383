@@ -150,5 +150,5 @@
 
 **17th December 2024:**
 * Custom Array Function - Indifinite Different Input Type Addition
-* Array - Deep, and Shallow Copy 
+* Array - Deep, and Shallow Copy
 * Array/String Palindrome
