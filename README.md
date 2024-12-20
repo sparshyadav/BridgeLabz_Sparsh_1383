@@ -156,3 +156,11 @@
 **18th December 2024**
 * Queue Implementation - Fixed, and Dynamic Sized
 * Binary Search Tree Implementation
+
+**19th December 2024**
+* HashTable Implementation
+* Graph Implementation - Using Adjacency Matrix, and Adjacency List
+
+**20th December 2024**
+* Custom Stack Question - Method Called inside Array
+* Bubble Sort
