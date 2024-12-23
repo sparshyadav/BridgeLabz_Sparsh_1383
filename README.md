@@ -165,6 +165,9 @@
 * Custom Stack Question - Method Called inside Array
 * Bubble Sort
 
-**23th December 2024**
-* Movie Booking Application - Using OOP's Concepts
+**21th December 2024**
 * Merge Sort Implementation 
+* Heap Sort Implementation
+
+**22th December 2024**
+* Movie Booking System Using OOP's Concepts
