@@ -165,9 +165,16 @@
 * Custom Stack Question - Method Called inside Array
 * Bubble Sort
 
-**21th December 2024**
+**21st December 2024**
 * Merge Sort Implementation 
 * Heap Sort Implementation
 
-**22th December 2024**
+**22nd December 2024**
 * Movie Booking System Using OOP's Concepts
+
+**23rd December 2024**
+* LinkedList Custom Implementation - Palindromic LinkedList
+* Numeric LinkedList Numbers
+* Sum of Digits, and Primes in a LinkedList
+* Minimum Difference of Elements 
+* Sum of Factors 
