@@ -164,3 +164,7 @@
 **20th December 2024**
 * Custom Stack Question - Method Called inside Array
 * Bubble Sort
+
+**23th December 2024**
+* Movie Booking Application - Using OOP's Concepts
+* Merge Sort Implementation 
