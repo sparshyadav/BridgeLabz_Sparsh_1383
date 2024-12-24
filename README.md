@@ -178,3 +178,15 @@
 * Sum of Digits, and Primes in a LinkedList
 * Minimum Difference of Elements 
 * Sum of Factors 
+
+**24th December 2024**
+1. Largest Congiguous Subarray Sum
+2. Move Zeroes to the End of the Array 
+3. Find Duplicate Elements
+4. Rotate an Array to it's Right by K
+5. Find the Missing Number
+6. Product of Array Except Self
+7. Two Sum
+8. Maximum Product of 3 Elements in an Array
+9. Find Subarray Sum Equals Target
+10. Find Longest Increasing Subsequence
