@@ -190,3 +190,64 @@
 8. Maximum Product of 3 Elements in an Array
 9. Find Subarray Sum Equals Target
 10. Find Longest Increasing Subsequence
+
+**25th December 2024**
+* LinkedList Implementation
+1. Reverse a LinkedList
+2. Detect Cycle in a LinkedList
+3. Merge 2 Sorted LinkedLists
+4. Find the Middle Element of a LinkedList
+5. Remove Nth Node from End of List
+6. Add Two Numbers Represented by LinkedLists
+7. Palindrome LinkedList
+8. Intersection of Two LinkedLists
+9. Flatten a Multilevel Doubly LinkedLists
+10. Rearrange a LinkedList
+
+**26th December 2024**
+1. Implement a Stack Using Queues
+2. Balanced Parentheses
+3. Evaluate Reverse Polish Notation
+4. Next Greater Element
+5. Min Stack
+6. Sort a Stack
+7. Largest Rectangle in Histogram
+8. Valid Parentheses with Multiple Types
+9. Stock Span Problem
+10. Implement a Stack with Push and Pop Operations in Constant Time
+
+**27th December 2024**
+1. Two Sum
+2. Group Anagrams
+3. Longest Substring Without Repeating Characters
+4. Find All Duplicates in an Array
+5. Subarray Sum Equals K
+6. Top K Frequent Elements
+7. First Unique Character in a String
+8. Intersection of Two Arrays
+9. Find the Contiguous Subarray with the Largest Product
+10. Valid Anagram
+
+**6th January 2025**
+1. Binary Tree Inorder Traversal
+2. Symmetric Tree
+3. Lowest Common Ancestor of a Binary Search Tree
+4. Path Sum
+5. Convert Sorted Array to Binary Search Tree
+6. Flatten Binary Tree to Linked List
+7. Max Depth of Binary Tree
+8. Count Complete Tree Nodes
+9. Binary Search Tree Iterator
+10. Diameter of a Binary Tree
+
+**7th January 2025**
+1. Breadth-First Search (BFS)
+2. Depth-First Search (DFS)
+3. Number of Islands
+4. Clone Graph
+5. Detect a Cycle in a Directed Graph
+6. Find the Shortest Path in a Graph
+7. Topological Sort
+8. Flood Fill
+9. Shortest Path in a Maze
+10. Graph Valid Tree
