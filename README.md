@@ -251,3 +251,10 @@
 8. Flood Fill
 9. Shortest Path in a Maze
 10. Graph Valid Tree
+
+**8th January 2025**
+* Objects and Object Creation Ways
+* Object Methods
+* Shallow vs Deep Copy Objects
+* Objects Practice Problems
+* Object to Primitive Type Conversion
