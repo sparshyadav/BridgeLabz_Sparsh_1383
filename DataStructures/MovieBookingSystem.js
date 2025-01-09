@@ -71,7 +71,7 @@ let user1 = new User("Sparsh", "sparshyadav@gmail.com", "1234567892");
 let inox = new Theatre("PVR INOX, Meerut");
 
 let movie1 = new Movie("Pushpa 2");
-let movie2 = new Movie("Avatar 2");
+let movie2 = new Movie("It's What's Inside");
 
 inox.addShow(movie1, 200, 120);
 inox.addShow(movie2, 150, 90);
