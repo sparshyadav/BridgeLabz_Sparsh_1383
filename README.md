@@ -258,3 +258,14 @@
 * Shallow vs Deep Copy Objects
 * Objects Practice Problems
 * Object to Primitive Type Conversion
+
+**9th January 2025**
+* SOLID Principles - 
+1. Single Responsibility Principle (SRP)
+2. Open/Closed Principle (OCP)
+3. Liskov Substitution Principle
+4. Interface Segregation Principle (ISP)
+5. Dependency Inversion Principle
+* Classes Practice Problems including Getters, and Setters
+* Property Flags and Descriptors
+* Revision - Immediately Invoked Function Expression(IIFE), Closures, 
