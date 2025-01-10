@@ -268,4 +268,10 @@
 5. Dependency Inversion Principle
 * Classes Practice Problems including Getters, and Setters
 * Property Flags and Descriptors
-* Revision - Immediately Invoked Function Expression(IIFE), Closures, 
+* Revision - Immediately Invoked Function Expression(IIFE), Closures
+
+**10th January 2025**
+* Callback Functions
+* Currying
+* Shallow Vs Deep Copy Objects
+* Implementation Problems on Objects, and Classes
