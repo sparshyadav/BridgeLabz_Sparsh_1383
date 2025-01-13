@@ -275,3 +275,15 @@
 * Currying
 * Shallow Vs Deep Copy Objects
 * Implementation Problems on Objects, and Classes
+
+**11th January 2025**
+* Currying, and Currying Practice Problems
+* Callback, and Callback Practice Problems
+* Hoisting on Let, Var, and Const
+* Microtask Queue in Event Loop
+
+**12th January 2025**
+* Promise
+* Promise Chaining
+* Promise API
+* Error Handling with Promises
