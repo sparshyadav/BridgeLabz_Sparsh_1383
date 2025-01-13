@@ -5,7 +5,7 @@ class CustomClass extends Error {
         this.stack = new Error().stack;
     }
 
-    toString(){
+    toString() {
         return "An Error Occurred";
     }
 }
