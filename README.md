@@ -295,3 +295,12 @@
 3. Event Emitter
 4. Error handling
 5. Handling Multiple Promises
+
+**14th January 2025**
+* Promisification
+* Errors, and Custom Errors
+* Extending Errors
+* Practice Problems on Promises -
+1. Write a function that uses Promise.all to fetch data from multiple simulated APIs and handles errors for all.
+2. Write a function that simulates a series of API calls where each call depends on the result of the previous one. Handle errors gracefully.
+3. Write a function promiseWithTimeout that takes a promise and a timeout value (in milliseconds). The function should reject the promise if it does not resolve within the timeout period.
