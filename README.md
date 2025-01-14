@@ -287,3 +287,11 @@
 * Promise Chaining
 * Promise API
 * Error Handling with Promises
+
+**13th January 2025**
+* Review 4 - Advanced JS
+1. Promise
+2. Promise Chaining
+3. Event Emitter
+4. Error handling
+5. Handling Multiple Promises
