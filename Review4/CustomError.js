@@ -15,7 +15,7 @@ try {
     let b = 0;
 
     if (b == 0) {
-        throw new CustomClass("Divisor Cannot be 0").toString();
+        throw new CustomClass("Divisor Cannot be 0");
     }
 }
 catch (error) {
