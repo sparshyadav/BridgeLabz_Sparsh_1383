@@ -313,6 +313,13 @@
 4. You have multiple asynchronous tasks, some of which may fail. Write a function that handles an array of Promises using Promise.allSettled(), logging the results and errors separately.
 5. Write a function that attempts to fetch data from an API using a Promise. If the API call fails (e.g., the server responds with an error), the function should retry the request up to 3 times before giving up. Use setTimeout to simulate the delays between retries.
 
+**16th January 2025**
+* Async/Await
+* Async/Await Iterations
+* for await ... of loop
+* Generator Functions, and Async Generator Functions
+* Yield
+
 
 
 
