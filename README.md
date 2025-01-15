@@ -304,3 +304,23 @@
 1. Write a function that uses Promise.all to fetch data from multiple simulated APIs and handles errors for all.
 2. Write a function that simulates a series of API calls where each call depends on the result of the previous one. Handle errors gracefully.
 3. Write a function promiseWithTimeout that takes a promise and a timeout value (in milliseconds). The function should reject the promise if it does not resolve within the timeout period.
+
+**15th January 2025**
+* Promises Practice Problems - 
+1. Write an async function that performs two sequential asynchronous operations (such as fetching two pieces of data from different APIs). Use await to make sure the second operation only starts once the first one has completed.
+2. Write a function that fetches data from two APIs simultaneously using Promise.all(). Assume you have two API endpoints that return user information and post data. Print the results when both APIs return their data.
+3. Write a function that simulates an API request. The function should return a Promise that resolves after a random delay between 1 and 5 seconds. Use setTimeout to simulate the delay and return a success message once the "request" is complete.
+4. You have multiple asynchronous tasks, some of which may fail. Write a function that handles an array of Promises using Promise.allSettled(), logging the results and errors separately.
+5. Write a function that attempts to fetch data from an API using a Promise. If the API call fails (e.g., the server responds with an error), the function should retry the request up to 3 times before giving up. Use setTimeout to simulate the delays between retries.
+
+**16th January 2025**
+* Async/Await
+* Async/Await Iterations
+* for await ... of loop
+* Generator Functions, and Async Generator Functions
+* Yield
+
+
+
+
+
