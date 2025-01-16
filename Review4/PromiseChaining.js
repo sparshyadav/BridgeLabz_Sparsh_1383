@@ -1,3 +1,4 @@
+//Write a promsise and use promise chaining to consume it with error handling.
 let promise1 = new Promise((resolve, reject) => {
     setTimeout(() => {
         console.log("Promise 1");
