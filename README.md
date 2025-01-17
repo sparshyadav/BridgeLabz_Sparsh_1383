@@ -320,6 +320,27 @@
 * Generator Functions, and Async Generator Functions
 * Yield
 
+**17th January 2025**
+* Microtask Queue, and Event Loop Revision
+* Promisification Implementation and Practice Problems
+* Async Await
+* Async Iterations
+* Fetching Data via API
+
+**18th January 2025**
+* Async Iterations using For Await of Loop
+* Yield and Generator Functions
+* Pagination Implementation 
+* Error Handling in Async Await Using Try Catch Block
+
+**19th January 2025**
+* Write an async generator that emits a sequence of random numbers with a delay of 2 seconds between each number.
+* Write an async function that fetches user data from an API and returns only the names of the users. Includes error handling for failed requests.
+* Create a function getTodosInParallel that: Fetches the same two URLs from the previous task in parallel using Promise.all. Logs the titles of both todos.
+* Create a function getTwoTodos that: Fetches https://jsonplaceholder.typicode.com/todos/1 and https://jsonplaceholder.typicode.com/todos/2 one after the other using await. Logs the titles of both todos. Handles errors properly.
+* Write a function getUserDetails that fetches details of multiple users from https://jsonplaceholder.typicode.com/users and logs their names and email addresses using async/await.
+
+
 
 
 
